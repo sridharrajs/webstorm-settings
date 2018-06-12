@@ -1,5 +1,6 @@
 # Webstorm-settings
 
+A repo for my [WebStorm](https://www.jetbrains.com/webstorm/) settings
 
 ### Requires
 `rq_` is the short form for `require`.
