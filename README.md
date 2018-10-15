@@ -9,7 +9,6 @@ A repo for my [WebStorm](https://www.jetbrains.com/webstorm/) settings
 * `let _ = require('lodash')` => `rq__`
 * `let qs = require('qs')` => `rq_qs`  
 * `let fs = require('fs')` => `rq_fs`  
-* `let mongoose = require('mongoose')` => `rq_mon`  
 
 ### Functions
 
