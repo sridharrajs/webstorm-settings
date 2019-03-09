@@ -2,6 +2,16 @@
 
 A repo for my [WebStorm](https://www.jetbrains.com/webstorm/) settings
 
+### File
+
+* Open to the file => `ctrl` + `p`  
+
+### Cut/Copy/Paste
+
+* Duplicate line => `Ctrl` + `d`
+* Recursive selection => `option` + `up`
+
+
 ### Requires
 `rq_` is the short form for `require`.
 
