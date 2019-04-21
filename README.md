@@ -4,6 +4,14 @@ A repo for my [WebStorm](https://www.jetbrains.com/webstorm/) settings
 
 For Templates, check[Template](https://github.com/sridharrajs/webstorm-settings/blob/master/Template.md)
 
+### Command-line launcher
+
+At times, you might want to launch webstorm on the current folder. To do so, configure commandline launcher.
+
+> Tools -> Create Command-line Launcher
+
+From now, you can open any project directory by `webstorm` in it.
+
 ### File
 
 |Description| Command |
