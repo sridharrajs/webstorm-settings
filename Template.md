@@ -1,3 +1,7 @@
+# Templates
+
+These are the live templates I use in WebStorm
+
 ### Requires
 `rq_` is the short form for `require`.
 
@@ -32,17 +36,23 @@
 
 `_` is the short form. So,
 
-* `_.each()`   => `_e`  
-* `_.map()`    => `_m`  
-* `_.reduce()` => `_r`  
+|Command|Description|
+|-------|-----------|
+|`_e`  |`_.each()`  |
+|`_m`  |`_.map()`   |
+|`_r`  |`_.reduce()`|
+
 
 ### Express
 
->  Express is Fast, unopinionated, minimalist web framework for Node.js
-
 `e` stands for `express`
 
-* `e_route` => express router boilerplate
+>  Express is Fast, unopinionated, minimalist web framework for Node.js
+
+|Command|Description|
+|-------|-----------|
+|`e_route`|express router boilerplate|
+
 
 ### Trivials
 
@@ -53,5 +63,7 @@
 
 ### Testing
 
-* `rq_desc` => for the describe template
-* `let expect = require('expect')` => `rq_expect`
+|Command|Description|
+|-------|-----------|
+|`rq_desc`|describe template|
+|`rq_expect`|`let expect = require('expect')`|
