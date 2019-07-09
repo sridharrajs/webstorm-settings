@@ -24,6 +24,10 @@ From now, you can open any project directory by `webstorm` in it.
 |Go to Previous tab|`Ctrl/Command` + `Alt/Option` + `Left`|
 |Go to Next splitter tab|`Ctrl/Command` + `Alt/Option` + `Shift` + `Right`|
 |Go to Previous splitter tab|`Ctrl/Command` + `Alt/Option` + `Shift` + `Left`|
+|Collapse region| `Command` + `-`|
+|Collapse all region| `Shift` + `Command` + `-`|
+|Expand region| `Command` + `+`|
+|Expand all region| `Shift` + `Command` + `+`|
 
 ### Find
 
