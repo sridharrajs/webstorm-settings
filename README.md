@@ -10,7 +10,14 @@ At times, you might want to launch webstorm on the current folder. To do so, con
 
 > Tools -> Create Command-line Launcher
 
+If yours is different, you can add as `alias` in `.bashrc`
+
+**.bashrc**
+
+    alias webstorm='/usr/local/bin/webstorm'
+
 From now, you can open any project directory by `webstorm` in it.
+
 
 ### Navigation
 
