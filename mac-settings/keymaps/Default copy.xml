@@ -4,14 +4,25 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
@@ -47,6 +58,7 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="Uml.ShowDiff" />
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>

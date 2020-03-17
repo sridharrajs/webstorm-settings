@@ -1,0 +1,4 @@
+com.intellij.lang.jsgraphql
+com.intellij.properties
+mobi.hsz.idea.gitignore
+ru.adelf.idea.dotenv

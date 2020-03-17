@@ -57,6 +57,9 @@ From now, you can open any project directory by `ws .` in it.
 |Split Horizontally| `Alt/Option` + `h`|
 |Unsplit All| `Ctrl/Command` + `O`|
 |Close everything except current file| `Alt/Option` + `W`|
+|Close the current panel|`Ctrl/Command` + `W`|
+|Toggle sidebar|`Ctrl/Command` + `1`|
+|Toggle Terminal|`Alt/Option` + `F12`|
 
 ### Selection/Cut/Copy/Paste
 
@@ -73,17 +76,6 @@ From now, you can open any project directory by `ws .` in it.
 |Description| Command |
 |-----------|---------| 
 |Refactoring to a variable|`Shift` + `F6`|
-
-### Panel
-
-|Description| Command |
-|-----------|---------| 
-|Split vertifically|`Alt/Option` + `X`|
-|Toggle sidebar|`Ctrl/Command` + `1`|
-|Toggle Terminal|`Alt/Option` + `F12`|
-|Close the current panel|`Ctrl/Command` + `W`|
-|Close all except current one|`Alt/Option` + `W`|
-
 
 ### LICENSE
 
